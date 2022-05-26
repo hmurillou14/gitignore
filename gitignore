@@ -1,0 +1,23 @@
+@@ -0,0 +1,22 @@
+# ## AL ###
+# Plantilla para proyectos AL para Dynamics 365 Business Central
+# carpeta launch.json
+.vscode /
+# carpeta de caché
+.alcache /
+# Carpeta de símbolos
+.alpaquetes /
+# Carpeta de instantáneas
+.instantáneas /
+# Carpeta de salida de prueba
+.salida /
+# Archivo de aplicación de extensión
+* .aplicación
+# Archivo de desarrollo rápido de aplicaciones
+rad.json
+# Archivo base de traducción
+* .g.xlf
+# archivo de licencia
+* .flf
+# Archivo de resultados de prueba
+Resultados de la prueba.xml 
